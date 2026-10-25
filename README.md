@@ -1,6 +1,6 @@
 # Pedro Rocha
 
-**Dev Full Stack** · Java/Spring Boot + Next.js · automação com Python
+**Dev Full Stack** · Java/Spring Boot + Next.js · automação com Python<br>
 Estudante de Análise e Desenvolvimento de Sistemas no IFBA, Irecê-BA
 
 Construo software para o setor público: plataformas de serviços municipais, automação de processos no SEI e as APIs por trás disso.
