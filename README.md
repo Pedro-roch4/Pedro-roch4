@@ -39,7 +39,7 @@ Gosto de resolver problemas reais do setor público: tirar processo do papel, au
 <p align="center">
   <b>Frontend, Mobile & Automação</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,python,flutter,dart,nodejs,erlang,supabase" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,python,flutter,dart,nodejs,supabase" alt="Frontend Stack" />
   </a>
 </p>
 
