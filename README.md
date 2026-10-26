@@ -21,7 +21,7 @@
 
 ### 🚀 Sobre Mim
 
-Trabalho com desenvolvimento **full stack**, usando **Next.js**, **React**, **TypeScript**, **Java** e **Spring Boot**, e com **automação de processos em Python**. Sou gestor de software da Prefeitura de Irecê e atuo no **Conecta Municípios**, sistema em produção usado pela população e pelos servidores do município.
+Trabalho com desenvolvimento **full stack**, usando **Next.js**, **React**, **TypeScript**, **Java** e **Spring Boot**, e com **automação de processos em Python**. Sou gestor de software da Prefeitura de Irecê e atuo no **Conecta Municípios**, sistema em produção usado pela população e pelos servidores do município, do código ao servidor de produção, passando pelo suporte e pelo treinamento dos usuários.
 
 Gosto de resolver problemas reais do setor público: tirar processo do papel, automatizar o que é repetitivo e entregar sistemas que o cidadão consegue usar.
 
@@ -32,7 +32,7 @@ Gosto de resolver problemas reais do setor público: tirar processo do papel, au
 <p align="center">
   <b>Backend, Banco de Dados & Infraestrutura</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,mysql,docker,nginx,maven,git,github" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,mysql,docker,nginx,linux,maven,git,github" alt="Backend Stack" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ Gosto de resolver problemas reais do setor público: tirar processo do papel, au
 #### 🏛️ [Conecta Municípios — Prefeitura de Irecê](https://conecta.irece.ba.gov.br/)
 **Gestor de Software / Dev Full Stack**  
 *2026 – Presente*  
-*Tecnologias:* `Next.js`, `React`, `TypeScript`, `TanStack Query`, `React Hook Form`, `Zod`, `Tailwind CSS`, `Leaflet`, `Java 17`, `Spring Boot`, `Spring Security`, `PostgreSQL`, `Flyway`
+*Tecnologias:* `Next.js`, `React`, `TypeScript`, `TanStack Query`, `React Hook Form`, `Zod`, `Tailwind CSS`, `Leaflet`, `Java 17`, `Spring Boot`, `Spring Security`, `PostgreSQL`, `Flyway`, `Nginx`, `Linux`
 
 Plataforma GovTech em produção para a Prefeitura Municipal de Irecê/BA, desenvolvida em convênio com o [Cidades Inteligentes — IFBA Irecê](https://github.com/Cidades-Inteligentes-IFBA-Irece):
 - 🏛️ **Em produção:** [conecta.irece.ba.gov.br](https://conecta.irece.ba.gov.br/)
@@ -59,6 +59,8 @@ Plataforma GovTech em produção para a Prefeitura Municipal de Irecê/BA, desen
 - **Mapas e serviços:** mapa com Leaflet da localização dos alvarás emitidos, mapa de serviços com ícone por subcategoria e links de redirecionamento, e cadastro de unidades com dias e turnos de funcionamento.
 - **Contas e segurança:** verificação de e-mail no cadastro, recuperação de senha, correção de token exposto na URL e regra de senha forte.
 - **Performance:** migração de telas para React Query, eliminando consultas N+1 e chamadas duplicadas.
+- **Infraestrutura:** configuração do Nginx no servidor de produção e administração da VPS, incluindo hardening e manutenção de segurança.
+- **Suporte & Treinamento:** suporte imediato aos usuários do sistema e treinamento nos módulos de **Mapa de Serviços** e **Alvará Sanitário**.
 - **Cultura de engenharia:** tarefas no Jira, conventional commits, code review em todo PR e skills de IA para o Claude Code que implementam e revisam código no padrão do time.
 
 <br/>
